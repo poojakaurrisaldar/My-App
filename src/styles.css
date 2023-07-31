@@ -1,0 +1,15 @@
+.container {
+  display: block;
+  text-align: center;
+}
+h1 {
+  color: red;
+}
+.button {
+  display: block;
+  margin: 20px auto;
+}
+.image {
+  text-align: center;
+  margin: 20 auto;
+}
